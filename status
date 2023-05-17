@@ -1,0 +1,23 @@
+[33mcommit 101cf9599c4437c1c2f32e9d1002183c08587835[m[33m ([m[1;36mHEAD -> [m[1;32mtitulo[m[33m)[m
+Author: Cesar Rojas <ing.ramon.rojas@gmail.com>
+Date:   Tue May 16 18:36:53 2023 -0600
+
+    Modificando el Titulo
+
+[33mcommit 05e352f355dabd17d40fcce370863516ae038e15[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Cesar Rojas <ing.ramon.rojas@gmail.com>
+Date:   Mon May 15 22:26:53 2023 -0600
+
+    Renomabrando curso de integración Continua
+
+[33mcommit 378779c43285670b493bb772d1b28e8d4cab8e9e[m
+Author: Cesar Rojas <ing.ramon.rojas@gmail.com>
+Date:   Mon May 15 21:30:53 2023 -0600
+
+    Agregando gitignore
+
+[33mcommit beeb056ffd2b6bf6789e28212bdbbac4e072f2c3[m
+Author: Cesar <ing.ramon.rojas@gmail.com>
+Date:   Mon May 15 20:10:35 2023 -0600
+
+    Creando archivo index.html con lista de cursos
